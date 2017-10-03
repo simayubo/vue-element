@@ -1,2 +1,4 @@
 # vue-element
-vue-element通用配置
+
+`npm run dev`
+`npm run build`

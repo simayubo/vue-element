@@ -1,0 +1,8 @@
+.search-input{
+    width: 276px;
+    height: 28px;
+    background-size: 276px 28px;
+    background-image: url('../images/qbar_light@2x.png');
+    background-repeat: no-repeat;
+    display: inline-block;
+}
